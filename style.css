@@ -1,2 +1,7 @@
+p {color: red;}
+.foo { color: green;}
+#bar { color: blue;}
+
+
 table { border-collapse: collapse; }
 th, td { border: solid ; }
